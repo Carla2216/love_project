@@ -1,0 +1,31 @@
+body{
+    background-color:red;
+}
+.painel{
+    margin:auto;
+    background-color:white;
+    width: 500px;
+    height: 500px;
+    border-radius:20px;
+    text-align:center;
+    padding-top:50px ;
+    font-family:'Franklyn Ghotic Medium' , 'Arial Narrow' , Arial , Sans-Serif;
+}
+#sim{
+    position:absolute;
+    height: 40px;
+    width: 60px;
+    background-color:red;
+    border:white;
+    border-radius: 10px;
+    color: white;
+}
+#nao{
+    height: 40px;
+    width: 60px;
+    background-color:red;
+    border:white;
+    border-radius: 10px;
+    color: white;
+    margin-left: 70px;
+}
